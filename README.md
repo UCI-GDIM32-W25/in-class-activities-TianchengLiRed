@@ -12,5 +12,5 @@ Our table decided that 1 advice to help you get A in class is to share your link
 4. MonoBehaviour.
 5. print x = 10 on the console when game start.
 6. their name is argument and parameter; use to provide inputs to this method.
-7. Transform is a type and can not be called by translate.
+7. Transform is a type, it could only be called by object, Transform.translate is invalid.
 8. change Transform to _playerTransform.
