@@ -8,9 +8,13 @@ Our table decided that 1 advice to help you get A in class is to share your link
 
 1. 10
 2. 2
-3. print hello world out on the console every frame.
+3. print “hello world” out on the console every frame.
 4. MonoBehaviour.
-5. print x = 10 on the console when game start.
+5. print “x = 10” on the console when game start load.
 6. their name is argument and parameter; use to provide inputs to this method.
-7. Transform is a type, it could only be called by object, Transform.translate is invalid.
-8. change Transform to _playerTransform.
+7. Transform is a type, it could only be called by object, translate can not call on the Transform, its invalid.
+8. change Transform to _playerTransform. call translate on the _playTransform.
+
+### Activity 3
+
+https://docs.google.com/document/d/1oBYRXKqXWRqwzQK4CjbbG5s3cmnBHL8BmCKDdkGts8w/edit?usp=sharing
