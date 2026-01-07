@@ -9,6 +9,8 @@ Our table decided that 1 advice to help you get A in class is to share your link
 1. 10
 2. 2
 3. print hello world out on the console every frame.
-4. MonoBehavior.
+4. MonoBehaviour.
 5. print x = 10 on the console when game start.
-6.
+6. their name is argument and parameter; use to provide inputs to this method.
+7. Transform is a type and can not be called by translate.
+8. change Transform to _playerTransform.
