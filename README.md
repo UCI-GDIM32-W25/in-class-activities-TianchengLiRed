@@ -17,4 +17,4 @@ Our table decided that 1 advice to help you get A in class is to share your link
 
 ### Activity 3
 
-https://docs.google.com/document/d/1oBYRXKqXWRqwzQK4CjbbG5s3cmnBHL8BmCKDdkGts8w/edit?usp=sharing
+[MG1 break down google doc](https://docs.google.com/document/d/1oBYRXKqXWRqwzQK4CjbbG5s3cmnBHL8BmCKDdkGts8w/edit?usp=sharing)
