@@ -18,3 +18,10 @@ Our table decided that 1 advice to help you get A in class is to share your link
 ### Activity 3
 
 [MG1 break down google doc](https://docs.google.com/document/d/1oBYRXKqXWRqwzQK4CjbbG5s3cmnBHL8BmCKDdkGts8w/edit?usp=sharing)
+
+## W2
+### Activity 1
+
+![f99aa7c8fee2cadbb73ad510b08efb04](https://github.com/user-attachments/assets/117c4d86-e703-450c-8699-5e341d078eaf)
+
+
