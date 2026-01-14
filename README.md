@@ -28,4 +28,6 @@ Our table decided that 1 advice to help you get A in class is to share your link
 
 [MiniGame2 Update](https://github.com/UCI-GDIM32-W25/mg2-TianchengLiRed/commit/60e17663f735c02002a4ca2854e731ce259bb8ad)
 
+brief description : I created some Objects, implement jump function of the player. Created Coin as Prefab, implement coin's action fo move to left constantly. Implement the function to generate coins randomly.
+
 
