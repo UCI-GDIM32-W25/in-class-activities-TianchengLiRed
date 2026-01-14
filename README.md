@@ -24,4 +24,8 @@ Our table decided that 1 advice to help you get A in class is to share your link
 
 ![91bc1469eec660dd299aab2736b486ef](https://github.com/user-attachments/assets/3018efd8-6481-4b21-bb30-525ad9d5dc75)
 
+### Activity 2
+
+[MiniGame2 Update](https://github.com/UCI-GDIM32-W25/mg2-TianchengLiRed/commit/60e17663f735c02002a4ca2854e731ce259bb8ad)
+
 
