@@ -22,6 +22,6 @@ Our table decided that 1 advice to help you get A in class is to share your link
 ## W2
 ### Activity 1
 
-![f99aa7c8fee2cadbb73ad510b08efb04](https://github.com/user-attachments/assets/117c4d86-e703-450c-8699-5e341d078eaf)
+![91bc1469eec660dd299aab2736b486ef](https://github.com/user-attachments/assets/3018efd8-6481-4b21-bb30-525ad9d5dc75)
 
 
