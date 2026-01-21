@@ -37,6 +37,4 @@ Tiancheng Li,Allen Hu.
 
 ### Activity 3
 
-![720160e194b500c05d639c184d9c9246](https://github.com/user-attachments/assets/241c2b94-3f44-44a9-9d4b-eb5da3e6afc5)
-
-
+![3a43211da758192f22b3583355f7c477](https://github.com/user-attachments/assets/7e9494a8-4861-4d95-93f2-c5ce72ba8c55)
