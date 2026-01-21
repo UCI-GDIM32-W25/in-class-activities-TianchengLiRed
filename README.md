@@ -32,4 +32,4 @@ brief description : I created some Objects, implement jump function of the playe
 
 ## W3
 ### Activity 0
-Tiancheng Li, sAllen Hu
+Tiancheng Li,Allen Hu
