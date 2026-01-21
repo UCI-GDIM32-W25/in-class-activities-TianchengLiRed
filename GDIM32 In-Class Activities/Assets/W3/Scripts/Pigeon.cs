@@ -53,11 +53,13 @@ public class Pigeon : MonoBehaviour
 
     }
 
-    private void PlayFlyAnimation () {
+    private void PlayFlyAnimation () 
+    {
         _animator.SetBool("isFlying", true);
     }
 
-    private void PlayIdleAnimation () {
+    private void PlayIdleAnimation () 
+    {
         _animator.SetBool("isFlying", false);
     }
 }
