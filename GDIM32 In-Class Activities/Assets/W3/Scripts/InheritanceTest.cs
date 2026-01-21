@@ -1,4 +1,4 @@
-/*
+
 using UnityEngine;
 
 public class InheritanceTest : MonoBehaviour
@@ -22,6 +22,7 @@ public class Player
 	public virtual void TalkToNpc (Npc npc)
 	{
 		npc.Talk(_name);
+		
 	}
 }
 
@@ -32,14 +33,19 @@ public class Npc
 }
 
 // CHANGE THINGS IN VILLAGER...
-public class Villager
+public class Villager : Npc
 {
-	
+	public override void Talk(string player)
+	{
+		Debug.Log("bless you," + player);
+	}
 }
 
 // CHANGE THINGS IN ENEMY...
-public class Enemy
+public class Enemy : Npc
 {
-	
+	public override void Talk(string player)
+	{
+		Debug.Log("I will kill " + player);
+	}
 }
-*/
