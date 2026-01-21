@@ -31,7 +31,7 @@ Our table decided that 1 advice to help you get A in class is to share your link
 brief description : I created some Objects, implement jump function of the player. Created Coin as Prefab, implement coin's action fo move to left constantly. Implement the function to generate coins randomly.
 
 ## W3
-### Activity 0
+### Activity 0-2
 
 Tiancheng Li,Allen Hu.
 
