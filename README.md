@@ -41,11 +41,21 @@ Allen Hu
 
 
 ## W4
-###Activity 0-2
+### Activity 0
+
 
 Allen Hu
 
-###Activity 1 
+### Activity 1 
 
 Even though multiple locator GameObject still remain in the Scene but there is only one Locator GameObject that include Locator script as component.
 Because the script in the awake prevent there being more than one instance of the locator class by destory other instances.
+
+### Activity 2
+
+![03031585821334bd5347e0a20ccc6147](https://github.com/user-attachments/assets/98e319e4-775d-4564-b67e-85f3626c8d83)
+
+### Activity 3
+[MiniGame4 Update](https://github.com/TianchengLiRed/HW4/commit/ba8b9720641cc4cc1acc5b8b4d430546dad8ab2d)
+
+brief description : I created bird, tube and UI Objects, Implement the jump function and collide function of the player, the player now collide on the tube will end the game and collide with empty space between tube will gain point now. the game are able to gameover now. Implement the function to active gameover UI, gameoover image and restart button, press the button will debug "gameover".
