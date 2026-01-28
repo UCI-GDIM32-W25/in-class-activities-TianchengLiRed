@@ -9,7 +9,13 @@ public class W4VFX : MonoBehaviour
     // add a new method here
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
+    void Start()
+    {
+        Debug.Log("before");
+        Locator.Instance.pigeon.pigeoncoo += HandlePigeonCoo;
+        Debug.Log("After");
 
+    }
 
 
 
@@ -21,6 +27,7 @@ public class W4VFX : MonoBehaviour
 
         // waits a few seconds to remove the spotlight effect
         StartCoroutine(WaitAndDeactivate());
+        Debug.Log("handle works");
     }
 
     // don't change the code in this method!
