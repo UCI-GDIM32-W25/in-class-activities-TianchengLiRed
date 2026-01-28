@@ -39,3 +39,9 @@ Allen Hu
 
 ![c9bb8422c28352df87027cb66de27029](https://github.com/user-attachments/assets/54363b10-cc52-4e4f-a1a4-1ce1d62b9ccc)
 
+
+## W4
+###Activity 0-2
+
+Allen Hu
+
