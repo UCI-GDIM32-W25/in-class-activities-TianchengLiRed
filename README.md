@@ -45,3 +45,7 @@ Allen Hu
 
 Allen Hu
 
+###Activity 1 
+
+Even though multiple locator GameObject still remain in the Scene but there is only one Locator GameObject that include Locator script as component.
+Because the script in the awake prevent there being more than one instance of the locator class by destory other instances.
