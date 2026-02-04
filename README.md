@@ -73,9 +73,11 @@ View classes: InventoryUI, DialogueBubble;
 
 ### Activity 3
 
-Scenario 1:
+# Scenario 1
+
 Beat was made based on inheritance with polymorphism, making prefab for different beat that shared the same hit logic. Singleton will controll start system that play music and show beat objects at when start. Use scriptableObject to store information of each beat, to determine whether they hit it perfectly. 
-Scenario 2: 
+# Scenario 2
+
 Inheritance use to create different character that shared some of the same logic and information
 ScriptableObject to store different information of characters or guns,etc.
 Controller:
@@ -83,14 +85,12 @@ gameplay code- causing damage, creating shield
 View:
 UI that shows your kill record and remaining blood, and some effects of being hit by a gunshot.
 score of the player,scoreboard.
-Scenario 3:
+# Scenario 3
+
 finite machine will used for the state of the plant, to determine the change of plants status based on their growth condition. Also, inheritance and scriptableObject use to create different plants that is the same category and shared the same information, and with different growth condition.
 
 ### Activity 4
 
 Tiancheng Li, AllenHu, Yaokun Wan.
 
-### Activity 5
-
-FinalProject Proposal Draft:
-[Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
