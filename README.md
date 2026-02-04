@@ -88,7 +88,7 @@ finite machine will used for the state of the plant, to determine the change of 
 
 ### Activity 4
 
-Tiancheng Li, AllenHu, 
+Tiancheng Li, AllenHu, Yaokun Wan.
 
 ### Activity 5
 
