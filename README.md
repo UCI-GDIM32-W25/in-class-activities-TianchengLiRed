@@ -62,5 +62,11 @@ brief description : I created bird, tube and UI Objects, Implement the jump func
 
 ## W4
 ### Activity 1
+
 I think interface and abstract classes is pretty efficient to cerate different Items. I use to think inheritance would be easier because they can share the same information to their children class. But when you creating some items, I would keep it the same, keep use abstract and interface class. Abstract class of Item to create base category and attribute of Item, interface use to create some special and specific inclusive attribute of certain category of items. It would be helpful and more efficient.
 
+### Activity 2
+
+Model classes: Enemystates,ItemW5Demo2;
+Controller classes: PlayerW5Demo2, Enemy5Demo2;
+View classes: InventoryUI, DialogueBubble;
