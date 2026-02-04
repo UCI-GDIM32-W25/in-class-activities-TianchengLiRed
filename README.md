@@ -92,4 +92,5 @@ Tiancheng Li, AllenHu, Yaokun Wan.
 
 ### Activity 5
 
-[GDIM 32 Final Project Proposal Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
+FinalProject Proposal Draft:
+[Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
