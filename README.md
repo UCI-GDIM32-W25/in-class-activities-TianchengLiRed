@@ -59,3 +59,8 @@ Because the script in the awake prevent there being more than one instance of th
 [MiniGame4 Update](https://github.com/TianchengLiRed/HW4/commit/ba8b9720641cc4cc1acc5b8b4d430546dad8ab2d)
 
 brief description : I created bird, tube and UI Objects, Implement the jump function and collide function of the player, the player now collide on the tube will end the game and collide with empty space between tube will gain point now. the game are able to gameover now. Implement the function to active gameover UI, gameoover image and restart button, press the button will debug "gameover".
+
+## W4
+### Activity 1
+I think interface and abstract classes is pretty efficient to cerate different Items. I use to think inheritance would be easier because they can share the same information to their children class. But when you creating some items, I would keep it the same, keep use abstract and interface class. Abstract class of Item to create base category and attribute of Item, interface use to create some special and specific inclusive attribute of certain category of items. It would be helpful and more efficient.
+
