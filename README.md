@@ -60,7 +60,7 @@ Because the script in the awake prevent there being more than one instance of th
 
 brief description : I created bird, tube and UI Objects, Implement the jump function and collide function of the player, the player now collide on the tube will end the game and collide with empty space between tube will gain point now. the game are able to gameover now. Implement the function to active gameover UI, gameoover image and restart button, press the button will debug "gameover".
 
-## W4
+## W5
 ### Activity 1
 
 I think interface and abstract classes is pretty efficient to cerate different Items. I use to think inheritance would be easier because they can share the same information to their children class. But when you creating some items, I would keep it the same, keep use abstract and interface class. Abstract class of Item to create base category and attribute of Item, interface use to create some special and specific inclusive attribute of certain category of items. It would be helpful and more efficient.
@@ -92,5 +92,20 @@ finite machine will used for the state of the plant, to determine the change of 
 ### Activity 4
 
 Tiancheng Li, AllenHu, Yaokun Wan.
+
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
+
+## W6
+### Activity 1
+
+Gizmos: Gizmos can create line in unity scene. I can create a line shooting from the player's face. Used to visualizing the player's orientation, their interactive range and whether they are facing an interactive object. It very effective eliminate 1 possibility during debug.
+
+Profilling: Profiller in Unity can provide detailed visualizations of the computer performance consumed by each part of the project. In our project when we notice the project is very slow during runtime. we can use it to find out which part make the whole project slow, and optimize this particular part.
+
+Breakpoint: Breakpoints are very efficient at checking my logic and identifying bugs.Instead of using debug to view the values ​​of some variables, I can directly stop at a specific stage via a breakpoint and inspect the variables at that stage. This allows me to quickly check how variables change during runtime and identify bugs. 
+
+### Activity 2
+
+Tiancheng Li, Allen Hu, Yaokun Wan.
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
