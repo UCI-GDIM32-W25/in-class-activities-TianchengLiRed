@@ -113,7 +113,9 @@ Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/
 ## W7
 ### Activity 1
 
-
+finite machine can create transition between each movement state easily, there need to be rules and transitions between actions. In our game, player interacte with different items and NPCs will display different emoji, it will help us create those transitions smoothly and set different conditions for state transitions.
+Raycasting(startpoint, direction, hit object info, length) use to visualize NPC and players facing direction.
+RotateToward is use rotatetowards to change current direction to input new direction, i can continuous input new direction to NPCs and make them rotate towards to it.
 
 ### Activity 2
 
@@ -128,6 +130,7 @@ Tiancheng Li, Allen Hu, Yaokun Wan.
 tasks: [Final Project Tasks](https://docs.google.com/document/d/1rLxHEqQ7WVbr2whNHvd6AkNOCeKE-MZJDp9sczpUW1g/edit?usp=sharing)
 
 ### Activity 5
+
 
 
 
