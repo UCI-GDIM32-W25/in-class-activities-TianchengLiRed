@@ -109,3 +109,22 @@ Breakpoint: Breakpoints are very efficient at checking my logic and identifying 
 Tiancheng Li, Allen Hu, Yaokun Wan.
 
 Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
+
+## W7
+### Activity 1
+
+
+
+### Activity 2
+
+Tiancheng Li, Allen Hu, Yaokun Wan.
+
+### Activity 3
+
+![abfa5b3043ee10318dc153e271e0a04d](https://github.com/user-attachments/assets/774f0d02-35aa-4f45-b7ec-4a977d8e392f)
+
+### Activity 4
+
+tasks: [Final Project Tasks](https://docs.google.com/document/d/1rLxHEqQ7WVbr2whNHvd6AkNOCeKE-MZJDp9sczpUW1g/edit?usp=sharing)
+
+
