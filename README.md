@@ -131,6 +131,10 @@ tasks: [Final Project Tasks](https://docs.google.com/document/d/1rLxHEqQ7WVbr2wh
 
 ### Activity 5
 
+brief discription: I create audiomanager and gamecontroller intended to achieve overall scheduling of game system and aduio sources, also I created player and achieve basic movement camera follow and cameras movement.
+
+Final Project: [Final Project Update](https://github.com/TianchengLiRed/GDIM32-Final/commit/55f1b0a66e3cb37d26222171d7f3fce63ec404b4)
+
 
 
 
