@@ -162,7 +162,9 @@ The Same Key E represent different function, sometimes create conflict in the ga
 
 
 Commit Link: [commitlink](https://github.com/TianchengLiRed/GDIM32-Final/commit/0a946c5013d3cb6846ac51864b4a31fcec08f913)
+
 implement boss task choose function, player able to talk to boss choose different task list for whole game process and conduct different branch conversations.
 create AudioManager integrated all audio funtion, able to different scripts call different aduio through audiomanager instances.
+timer function are integrated in game scene.
 
 
