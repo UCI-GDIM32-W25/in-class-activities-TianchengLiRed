@@ -135,6 +135,27 @@ brief discription: I create audiomanager and gamecontroller intended to achieve 
 
 Final Project: [Final Project Update](https://github.com/TianchengLiRed/GDIM32-Final/commit/55f1b0a66e3cb37d26222171d7f3fce63ec404b4)
 
+## W8
+### Activity 1
+
+URP is a render method that help to adjust the holistic render style of the scene.
+URP just like TMP need to add from unity. 
+Post processing is a tool that add as a shader on the camera that could add filter and do some specific adjustments contribute for the gamestyle for the scene.
+Post processing need to install from unity.
+Add effect to select different effect to the game.
+### Activity 2
+
+Tiancheng Li, Allen Hu, Yaokun Wan.
+
+### Activity 3
+### Acticity 4
+
+1. implement tasck choose and aceept function in game.
+2. add aduio for players action.
+3. integrate timer function in the game.
+
+### Activity 5
+
 
 
 
