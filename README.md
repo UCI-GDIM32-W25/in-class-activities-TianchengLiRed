@@ -148,6 +148,10 @@ Add effect to select different effect to the game.
 Tiancheng Li, Allen Hu, Yaokun Wan.
 
 ### Activity 3
+
+Player can notice that which gameobjects they can interact with, but players dont know how to interact with it, which key they should press to interact with. 
+The Same Key E represent different function, sometimes create conflict in the game, feedbacks after players interaction was unclear, sometimes player cant even know what happened after they interact with gameobjects.
+
 ### Acticity 4
 
 1. implement tasck choose and aceept function in game.
