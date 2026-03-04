@@ -167,4 +167,16 @@ implement boss task choose function, player able to talk to boss choose differen
 create AudioManager integrated all audio funtion, able to different scripts call different aduio through audiomanager instances.
 timer function are integrated in game scene.
 
+## W8
+### Activity 1
 
+Create scriptableObject to store different information that covered in the dialogue. The exmaple shows on w9 dialogue shows that i can store dialogue scriptableObject in to scriptableObject to create a branch dialogue. This kind of way is easy to build branch dilaogue with more branch option and multiple answering process. 
+Add selectedoption method to call advancedialogue() with new correspond dialogue from Option.
+
+### Activity 2
+
+### Activity 3
+
+### Activity 4
+
+### Activity 5
