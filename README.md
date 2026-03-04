@@ -179,6 +179,13 @@ Tiancheng Li, Allen Hu, Yaokun Wan.
 
 ### Activity 3
 
+When a player is playing our game, we found out that the player might have trouble finding the object to interact with. For example, we have a task that players have to drink coffee, but turns out that players have trouble finding which coffee they should interact with. We might need to guide the player on what they should do. Also, since our game is unfinished, we still need to test our tasks and dialogue system next week.
+
 ### Activity 4
 
+We finihed some of items' function, dialogue function,UI and prototype of taskflow. I think we epxpected to implememnt the taskflow function but we just finished the first task, i think it shows our progress is relatively slow and we spend  a lot of time in fixing bug and understand each others code.
+
 ### Activity 5
+
+Commit Link: [commit link](https://github.com/TianchengLiRed/GDIM32-Final/commit/b5ee933fbc445b643400e6a8c55f6e70c7f3cb6e)
+Change the player's behavior logic to be controlled by a state machine. Implement the function that player cant move when interacting.
