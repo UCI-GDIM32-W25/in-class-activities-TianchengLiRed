@@ -188,4 +188,5 @@ We finihed some of items' function, dialogue function,UI and prototype of taskfl
 ### Activity 5
 
 Commit Link: [commit link](https://github.com/TianchengLiRed/GDIM32-Final/commit/b5ee933fbc445b643400e6a8c55f6e70c7f3cb6e)
+
 Change the player's behavior logic to be controlled by a state machine. Implement the function that player cant move when interacting.
