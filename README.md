@@ -175,6 +175,8 @@ Add selectedoption method to call advancedialogue() with new correspond dialogue
 
 ### Activity 2
 
+Tiancheng Li, Allen Hu, Yaokun Wan.
+
 ### Activity 3
 
 ### Activity 4
