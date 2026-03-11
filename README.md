@@ -167,7 +167,7 @@ implement boss task choose function, player able to talk to boss choose differen
 create AudioManager integrated all audio funtion, able to different scripts call different aduio through audiomanager instances.
 timer function are integrated in game scene.
 
-## W8
+## W9
 ### Activity 1
 
 Create scriptableObject to store different information that covered in the dialogue. The exmaple shows on w9 dialogue shows that i can store dialogue scriptableObject in to scriptableObject to create a branch dialogue. This kind of way is easy to build branch dilaogue with more branch option and multiple answering process. 
@@ -190,3 +190,30 @@ We finihed some of items' function, dialogue function,UI and prototype of taskfl
 Commit Link: [commit link](https://github.com/TianchengLiRed/GDIM32-Final/commit/b5ee933fbc445b643400e6a8c55f6e70c7f3cb6e)
 
 Change the player's behavior logic to be controlled by a state machine. Implement the function that player cant move when interacting.
+
+## W10
+### Activity 1
+
+Tiancheng Li, Allen Hu, Yaokun Wan.
+
+### Activity 2
+
+1. Interaction detection is inconsistent: some objects (like the phone) are hard to target.  
+2. Interaction pacing feels slow: fixed interaction duration can interrupt flow.  
+3. Task guidance can be confusing: dialogue, task flow, and phone events overlap.  
+The main playtest issue is not core functionality, but clarity and consistency of feedback. Prioritizing interaction should create the biggest immediate improvement. After that, refining task UI and audio cues will make pacing and guidance feel more natural.
+
+### Activity 3
+
+Our project has completed most of the main interactive elements, such as interactions with different objects, player movement, and basic task acceptance. However, I believe we should complete most of the content at this stage, including task list synchronization and some object interaction features, which is something we haven't yet achieved. This indicates that our target scope may be too broad, and our efficiency and progress are slower than expected. We can abandon some interactive items, and different team members have different coding styles, which took a considerable amount of time to understand. I suggest that team members write more comments as hints.
+
+
+### Activity 4
+
+Commit Link: [commit link](https://github.com/TianchengLiRed/GDIM32-Final/commit/95d4fb622c7305478d1acd70bc0bec2f1596e0ef)
+
+The branch dialogue code was optimized.
+A loop question feature was added.
+The UI was modified.
+An avatar and loop question option were added to the ScriptableObject.
+And the text display function of the typewriter was completed.
